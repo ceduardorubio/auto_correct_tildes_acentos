@@ -1,0 +1,68 @@
+
+//c-spell:disable
+{
+    "auto-correct.dictionary": [
+
+        {
+          "languages": [
+            "*"
+          ],
+          "words": {
+            "Deberia":"Debería",
+            "Deberiamos":"Deberíamos",
+            "Deberian":"Deberían",
+            "Deberias":"Deberías",
+            "Habria":"Habría",
+            "Quiza":"Quizá",
+            "Quizas":"Quizás",
+            "Sera":"Será",
+            "Seras":"Serás",
+            "caracteristicas":"características",
+            "configuracion":"configuración",
+            "credito":"crédito",
+            "deberia":"debería",
+            "deberiamos":"deberíamos",
+            "deberian":"deberían",
+            "deberias":"deberías",
+            "debito":"débito",
+            "dependeria":"dependería",
+            "descripcion":"descripción",
+            "identificacion":"identificación",
+            "informacion":"información",
+            "opcion":"opción",
+            "quiza":"quizá",        
+            "quizas":"quizás",
+            "rapido":"rápido",
+            "seccion":"sección",
+            "sera":"será",
+            "seria":"sería",
+            "seriamos":"seríamos",
+            "serian":"serían",
+            "serias":"serías",
+            "tambien":"también",
+            "tendra":"tendrá",
+            "tendran":"tendrán",
+            "tendras":"tendrás",
+            "tendre":"tendré",
+            "tendria":"tendría",
+            "tendriamos":"tendríamos",
+            "tendrian":"tendrían",
+            "tendrias":"tendrías",
+    
+          },
+          "useLargeList": false
+        },
+        {
+          "languages": [
+            "javascript",
+            "javascriptreact",
+            "typescript",
+            "typescriptreact"
+          ],
+          "words": {
+            "cosnt": "const",
+            "functoin": "function"
+          }
+        }
+      ]
+}
